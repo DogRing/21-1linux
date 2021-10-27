@@ -1,0 +1,1 @@
+cmd_/home/hwan/21-1linux/assignments/list_module/my_list_module.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/hwan/21-1linux/assignments/list_module/my_list_module.ko /home/hwan/21-1linux/assignments/list_module/my_list_module.o /home/hwan/21-1linux/assignments/list_module/my_list_module.mod.o;  true
