@@ -3,12 +3,12 @@
 #include <linux/init.h>
 
 int __init hello_module_init(void){
-	printk("Hello Module!\n");
+	printk("Simple Module init.\n");
 	return 0;
 }
 
 void __exit hello_module_cleanup(void){
-	printk("Bye Module!\n");
+	printk("Simple Module exit.\n");
 }
 
 module_init(hello_module_init);

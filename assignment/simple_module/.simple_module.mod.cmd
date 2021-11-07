@@ -1,0 +1,1 @@
+cmd_/home/hwan/21-1linux/assignment/simple_module/simple_module.mod := { echo  /home/hwan/21-1linux/assignment/simple_module/simple_module.o; echo; } > /home/hwan/21-1linux/assignment/simple_module/simple_module.mod

@@ -29,7 +29,7 @@ __used __section(__versions) = {
 	{ 0x37a0cba, "kfree" },
 	{ 0x9a3e4bed, "kmem_cache_alloc_trace" },
 	{ 0xedec5990, "kmalloc_caches" },
-	{ 0x513f58, "get_timespec64" },
+	{ 0xb43f9365, "ktime_get" },
 	{ 0xbdfb6dbb, "__fentry__" },
 	{ 0xc5850110, "printk" },
 };
@@ -37,4 +37,4 @@ __used __section(__versions) = {
 MODULE_INFO(depends, "");
 
 
-MODULE_INFO(srcversion, "D5E4D2D4982439874BD6C1A");
+MODULE_INFO(srcversion, "EB9289CA8CAB1C55B91787C");
