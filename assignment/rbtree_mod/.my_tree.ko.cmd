@@ -1,0 +1,1 @@
+cmd_/home/hwan/stud/21-1linux/assignment/rbtree_mod/my_tree.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/hwan/stud/21-1linux/assignment/rbtree_mod/my_tree.ko /home/hwan/stud/21-1linux/assignment/rbtree_mod/my_tree.o /home/hwan/stud/21-1linux/assignment/rbtree_mod/my_tree.mod.o;  true
