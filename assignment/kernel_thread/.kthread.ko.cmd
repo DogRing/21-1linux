@@ -1,0 +1,1 @@
+cmd_/home/hwan/stud/21-1linux/assignment/kernel_thread/kthread.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/hwan/stud/21-1linux/assignment/kernel_thread/kthread.ko /home/hwan/stud/21-1linux/assignment/kernel_thread/kthread.o /home/hwan/stud/21-1linux/assignment/kernel_thread/kthread.mod.o;  true

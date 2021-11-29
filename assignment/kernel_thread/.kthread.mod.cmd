@@ -1,0 +1,1 @@
+cmd_/home/hwan/stud/21-1linux/assignment/kernel_thread/kthread.mod := { echo  /home/hwan/stud/21-1linux/assignment/kernel_thread/kthread.o; echo; } > /home/hwan/stud/21-1linux/assignment/kernel_thread/kthread.mod
