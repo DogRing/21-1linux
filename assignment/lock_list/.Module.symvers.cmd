@@ -1,0 +1,1 @@
+cmd_/home/hwan/21-1linux/assignment/lock_list/Module.symvers := sed 's/ko$$/o/' /home/hwan/21-1linux/assignment/lock_list/modules.order | scripts/mod/modpost -m -a   -o /home/hwan/21-1linux/assignment/lock_list/Module.symvers -e -i Module.symvers   -T -
